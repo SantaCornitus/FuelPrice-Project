@@ -1,0 +1,85 @@
+,station_id,station_name,street,city,price,24/7,price_time,download_time
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,66",False,"03.01.2023, 11:29",2023-01-03 10:58:58.948136
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,67",False,"03.01.2023, 11:42",2023-01-03 10:58:58.948136
+2,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:42",2023-01-03 10:58:58.948136
+3,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 10:58:58.948136
+4,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,70",True,"03.01.2023, 11:45",2023-01-03 10:58:58.948136
+5,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,71",True,"03.01.2023, 11:23",2023-01-03 10:58:58.948136
+6,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,71",False,"03.01.2023, 11:29",2023-01-03 10:58:58.948136
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,66",False,"03.01.2023, 11:29",2023-01-03 11:03:59.080058
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,67",False,"03.01.2023, 11:42",2023-01-03 11:03:59.080058
+2,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:03:59.080058
+3,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,71",True,"03.01.2023, 11:23",2023-01-03 11:03:59.080058
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,71",False,"03.01.2023, 11:29",2023-01-03 11:03:59.080058
+5,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,75",False,"03.01.2023, 12:02",2023-01-03 11:03:59.080058
+6,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,76",True,"03.01.2023, 12:02",2023-01-03 11:03:59.080058
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,66",False,"03.01.2023, 11:29",2023-01-03 11:08:59.231667
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,67",False,"03.01.2023, 11:42",2023-01-03 11:08:59.231667
+2,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:08:59.231667
+3,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,71",False,"03.01.2023, 11:29",2023-01-03 11:08:59.231667
+4,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:08:59.231667
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:08:59.231667
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,76",True,"03.01.2023, 12:04",2023-01-03 11:08:59.231667
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,66",False,"03.01.2023, 11:29",2023-01-03 11:13:59.428995
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,67",False,"03.01.2023, 11:42",2023-01-03 11:13:59.428995
+2,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:13:59.428995
+3,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,71",False,"03.01.2023, 11:29",2023-01-03 11:13:59.428995
+4,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:13:59.428995
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:13:59.428995
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:13:59.428995
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,65",False,"03.01.2023, 12:10",2023-01-03 11:18:59.625915
+1,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:18:59.625915
+2,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,70",False,"03.01.2023, 12:10",2023-01-03 11:18:59.625915
+3,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,71",False,"03.01.2023, 12:17",2023-01-03 11:18:59.625915
+4,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:18:59.625915
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:18:59.625915
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:18:59.625915
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,65",False,"03.01.2023, 12:10",2023-01-03 11:23:59.795793
+1,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:23:59.795793
+2,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,70",False,"03.01.2023, 12:10",2023-01-03 11:23:59.795793
+3,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,71",False,"03.01.2023, 12:17",2023-01-03 11:23:59.795793
+4,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:23:59.795793
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:23:59.795793
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:23:59.795793
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,65",False,"03.01.2023, 12:10",2023-01-03 11:28:59.970888
+1,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:28:59.970888
+2,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,70",False,"03.01.2023, 12:10",2023-01-03 11:28:59.970888
+3,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,71",False,"03.01.2023, 12:17",2023-01-03 11:28:59.970888
+4,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:28:59.970888
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:28:59.970888
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:28:59.970888
+0,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:34:00.098965
+1,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:27",2023-01-03 11:34:00.098965
+2,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,71",False,"03.01.2023, 12:17",2023-01-03 11:34:00.098965
+3,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:07",2023-01-03 11:34:00.098965
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,74",False,"03.01.2023, 12:26",2023-01-03 11:34:00.098965
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:34:00.098965
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:34:00.098965
+0,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,69",False,"03.01.2023, 11:54",2023-01-03 11:39:00.238109
+1,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:27",2023-01-03 11:39:00.238109
+2,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:36",2023-01-03 11:39:00.238109
+3,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,72",False,"03.01.2023, 12:36",2023-01-03 11:39:00.238109
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,74",False,"03.01.2023, 12:26",2023-01-03 11:39:00.238109
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:39:00.238109
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:39:00.238109
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:27",2023-01-03 11:44:00.432472
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:36",2023-01-03 11:44:00.432472
+2,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,72",False,"03.01.2023, 12:36",2023-01-03 11:44:00.432472
+3,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:40",2023-01-03 11:44:00.432472
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,74",False,"03.01.2023, 12:26",2023-01-03 11:44:00.432472
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:44:00.432472
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:44:00.432472
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:27",2023-01-03 11:49:00.581293
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:36",2023-01-03 11:49:00.581293
+2,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,72",False,"03.01.2023, 12:36",2023-01-03 11:49:00.581293
+3,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:40",2023-01-03 11:49:00.581293
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,74",False,"03.01.2023, 12:26",2023-01-03 11:49:00.581293
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:49:00.581293
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:49:00.581293
+0,tankstelle-c4013858ca406f4c9612961b5e615ab2,T,Geilenkirchener Straße 414,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:27",2023-01-03 11:54:00.715312
+1,tankstelle-90b52a27c5d279ec651e651be2815432,PM,Kirchrather Straße 110-112,52134 Herzogenrath,"1,69",False,"03.01.2023, 12:36",2023-01-03 11:54:00.715312
+2,tankstelle-714b08238cd51dac80e36fed5d7025e5,Shell,Erkensstraße 2-4,52134 Herzogenrath,"1,72",False,"03.01.2023, 12:36",2023-01-03 11:54:00.715312
+3,tankstelle-492a0297c2f948db922bf72aaa7abbb0,bft,Voccartstraße 77,52134 Herzogenrath,"1,73",False,"03.01.2023, 12:40",2023-01-03 11:54:00.715312
+4,tankstelle-d9e956ea95aea36cc29d08ffb2d8c5fc,TotalEnergies,Voccartstraße 80,52134 Herzogenrath,"1,74",False,"03.01.2023, 12:26",2023-01-03 11:54:00.715312
+5,tankstelle-b46f9f36da083380dc8e42ba7ec69a13,Shell,Voccartstraße 28,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:07",2023-01-03 11:54:00.715312
+6,tankstelle-da000cb481962aaeb0ab34b87edaec58,ARAL,Roermonder Straße 25-29,52134 Herzogenrath,"1,75",True,"03.01.2023, 12:10",2023-01-03 11:54:00.715312
